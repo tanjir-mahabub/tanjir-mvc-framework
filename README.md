@@ -1,0 +1,24 @@
+                         : : : : : SITE DETAILS : : : : : 
+
+SITE INSTALL INSTRUCTIONS:
+
+USER LOGIN:
+
+Username: "root"
+Password: ""
+
+>> NOTE : DON'T FORGET TO CREATE A DATABASE NAMING "tanjir-mvc-framework" AND IMPORT THE SQL FILE TO RUN. WITHOUT THE DATABASE THE PROJECT WON'T BE RUN.
+
+>>UNZIP THE FOLDER INSIDE XAMPP HTDOCS FOLDER
+>>RUN CMD
+>>INSTALL COMPOSER
+>>RUN COMPOSER INIT
+>>DATABASE FILE IS INSIDE "BASE" FOLDER NAMED "tanjir-mvc-framework"!
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
+
+***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
+
+***** GTIHUB REPO :- https://github.com/tanjir-mahabub/tanjir-mvc-framework *****
+
+#THANK YOU FOR DOWNLOADING# tanjir-mvc-framework
